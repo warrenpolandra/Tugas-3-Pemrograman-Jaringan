@@ -8,7 +8,7 @@ Kelas: Progjar C
 
 ## Deskripsi Tugas:
 
-Membuat 3 jenis file client yang dihubungkan ke server dengan thread dengan metode:
+Membuat 3 jenis file client yang dihubungkan ke Thread server dengan metode:
 
 - Thread
 - ThreadPool
