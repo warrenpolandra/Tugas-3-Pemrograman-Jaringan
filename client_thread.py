@@ -33,7 +33,7 @@ def kirim_data(nama="kosong"):
 
 if __name__=='__main__':
     threads = []
-    for i in range(100000):
+    for i in range(10000):
         t = threading.Thread(target=kirim_data, args=(i,))
         threads.append(t)
 
